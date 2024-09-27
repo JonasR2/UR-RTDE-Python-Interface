@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/791e7c16-dccd-4135-b5d4-2261c7c0bd3f)
+
 **General:**
 
 This program utilizes the python programming interface UR-RTDE from SDU to create a graphical user interface that mimics the teach pendant.
@@ -12,3 +15,4 @@ The only necessary change to the code should be to change the ip to match the lo
 
 The gripper controls work by sending a local script from the pc that tells the gripper to acivate/open/close. If the gripper is of a different
 type than the Robotiq gripper that I am working with, you simply need to create new scripts on the robot, and throw them in the localscrips folder on the controlling pc.
+
