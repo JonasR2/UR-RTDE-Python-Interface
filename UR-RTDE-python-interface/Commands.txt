@@ -1,0 +1,8 @@
+For gui ui to python file
+Pyuic5 -x move.ui -o move_gui.py
+
+for gui images
+pyurcc filename.qrc -o newfilename_rc.py
+
+
+Pyuic5 -x move.ui -o move_getpos_gui.py
