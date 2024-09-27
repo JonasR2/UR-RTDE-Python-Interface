@@ -13,6 +13,6 @@ The gui was made in Qt-designer and can be opened and edited. After editing, ope
 
 The only necessary change to the code should be to change the ip to match the local ip of the robot you're working on.
 
-The gripper controls work by sending a local script from the pc that tells the gripper to acivate/open/close. If the gripper is of a different
+The gripper controls work by sending a local script from the pc that tells the gripper to activate/open/close. If the gripper is of a different
 type than the Robotiq gripper that I am working with, you simply need to create new scripts on the robot, and throw them in the localscrips folder on the controlling pc.
 
